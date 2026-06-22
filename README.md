@@ -16,6 +16,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Vedant11054/DSA_JAVA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vedant11054/DSA_JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Vedant11054/DSA_JAVA/tree/master/0409-longest-palindrome) |
 | [1189-maximum-number-of-balloons](https://github.com/Vedant11054/DSA_JAVA/tree/master/1189-maximum-number-of-balloons) |
@@ -23,6 +24,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vedant11054/DSA_JAVA/tree/master/0020-valid-parentheses) |
+| [0383-ransom-note](https://github.com/Vedant11054/DSA_JAVA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vedant11054/DSA_JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Vedant11054/DSA_JAVA/tree/master/0409-longest-palindrome) |
 | [1189-maximum-number-of-balloons](https://github.com/Vedant11054/DSA_JAVA/tree/master/1189-maximum-number-of-balloons) |
@@ -50,6 +52,7 @@
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Vedant11054/DSA_JAVA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vedant11054/DSA_JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Vedant11054/DSA_JAVA/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
