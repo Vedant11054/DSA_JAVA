@@ -6,12 +6,14 @@
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vedant11054/DSA_JAVA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0503-next-greater-element-ii](https://github.com/Vedant11054/DSA_JAVA/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/Vedant11054/DSA_JAVA/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Vedant11054/DSA_JAVA/tree/master/0739-daily-temperatures) |
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vedant11054/DSA_JAVA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0704-binary-search](https://github.com/Vedant11054/DSA_JAVA/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
