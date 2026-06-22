@@ -16,11 +16,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Vedant11054/DSA_JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Vedant11054/DSA_JAVA/tree/master/0409-longest-palindrome) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vedant11054/DSA_JAVA/tree/master/0020-valid-parentheses) |
+| [0387-first-unique-character-in-a-string](https://github.com/Vedant11054/DSA_JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Vedant11054/DSA_JAVA/tree/master/0409-longest-palindrome) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Vedant11054/DSA_JAVA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Greedy
@@ -39,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Vedant11054/DSA_JAVA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Vedant11054/DSA_JAVA/tree/master/0739-daily-temperatures) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Vedant11054/DSA_JAVA/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Vedant11054/DSA_JAVA/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
