@@ -16,6 +16,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vedant11054/DSA_JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0503-next-greater-element-ii](https://github.com/Vedant11054/DSA_JAVA/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/Vedant11054/DSA_JAVA/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/Vedant11054/DSA_JAVA/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/Vedant11054/DSA_JAVA/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vedant11054/DSA_JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vedant11054/DSA_JAVA/tree/master/0977-squares-of-a-sorted-array) |
@@ -27,6 +28,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vedant11054/DSA_JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vedant11054/DSA_JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/Vedant11054/DSA_JAVA/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/Vedant11054/DSA_JAVA/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vedant11054/DSA_JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
@@ -89,4 +91,12 @@
 | [0015-3sum](https://github.com/Vedant11054/DSA_JAVA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Vedant11054/DSA_JAVA/tree/master/0016-3sum-closest) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vedant11054/DSA_JAVA/tree/master/0977-squares-of-a-sorted-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Vedant11054/DSA_JAVA/tree/master/0713-subarray-product-less-than-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Vedant11054/DSA_JAVA/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
