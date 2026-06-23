@@ -16,6 +16,7 @@
 | [0704-binary-search](https://github.com/Vedant11054/DSA_JAVA/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Vedant11054/DSA_JAVA/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vedant11054/DSA_JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Vedant11054/DSA_JAVA/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -73,8 +74,13 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vedant11054/DSA_JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Vedant11054/DSA_JAVA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vedant11054/DSA_JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0977-squares-of-a-sorted-array](https://github.com/Vedant11054/DSA_JAVA/tree/master/0977-squares-of-a-sorted-array) |
 ## Linked List
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Vedant11054/DSA_JAVA/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/Vedant11054/DSA_JAVA/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
