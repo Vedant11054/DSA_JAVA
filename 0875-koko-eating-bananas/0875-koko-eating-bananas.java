@@ -1,10 +1,10 @@
 class Solution {
-    public long fun(int[] piles,int n ,int speed)
+    public long fun(int[] piles,int n,int speed)
     {
         long h=0;
         for(int i=0;i<n;i++)
         {
-            h+=piles[i]/speed;
+            h=h+ piles[i]/speed;
             if(piles[i]%speed!=0)
             {
                 h++;
@@ -14,29 +14,28 @@ class Solution {
     }
     public int minEatingSpeed(int[] piles, int h) 
     {
-        int n=piles.length;
-        int max=Integer.MIN_VALUE;
-        int low=1;
-        int ans=-1;
-        for(int i=0;i<piles.length;i++)
+    int  low=1;
+    int high=Integer.MIN_VALUE;
+    int n=piles.length;
+    int ans=-1;
+    for(int i=0;i<n;i++)    
+    {
+        high=Math.max(high,piles[i]);
+    }
+    while(low<=high)
+    {
+        int guess=low+(high-low)/2;
+        long hr=fun(piles,n,guess);
+        if(hr>h)
         {
-            max=Math.max(max,piles[i]);
+            low=guess+1;
         }
-        while(low<=max)
+        else
         {
-            int guess =low+(max-low)/2;
-            long hr=fun(piles,n,guess);
-            if(hr>h)
-            {
-                low=guess+1;
-            }
-            else if(hr<=h)
-            {
-                ans=guess;
-                max=guess-1;
-            }
+            ans=guess;
+            high=guess-1;
         }
-        return ans;
-
+    }
+    return ans;
     }
 }
