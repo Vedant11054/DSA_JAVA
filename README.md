@@ -17,6 +17,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vedant11054/DSA_JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vedant11054/DSA_JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vedant11054/DSA_JAVA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vedant11054/DSA_JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0503-next-greater-element-ii](https://github.com/Vedant11054/DSA_JAVA/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/Vedant11054/DSA_JAVA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Vedant11054/DSA_JAVA/tree/master/0713-subarray-product-less-than-k) |
@@ -33,6 +34,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vedant11054/DSA_JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vedant11054/DSA_JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vedant11054/DSA_JAVA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vedant11054/DSA_JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0704-binary-search](https://github.com/Vedant11054/DSA_JAVA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Vedant11054/DSA_JAVA/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vedant11054/DSA_JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -99,6 +101,7 @@
 | [0015-3sum](https://github.com/Vedant11054/DSA_JAVA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Vedant11054/DSA_JAVA/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Vedant11054/DSA_JAVA/tree/master/0075-sort-colors) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vedant11054/DSA_JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vedant11054/DSA_JAVA/tree/master/0977-squares-of-a-sorted-array) |
 ## Sliding Window
 |  |
@@ -113,8 +116,13 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Vedant11054/DSA_JAVA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vedant11054/DSA_JAVA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vedant11054/DSA_JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vedant11054/DSA_JAVA/tree/master/0240-search-a-2d-matrix-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vedant11054/DSA_JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
