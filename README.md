@@ -18,6 +18,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vedant11054/DSA_JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vedant11054/DSA_JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vedant11054/DSA_JAVA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Vedant11054/DSA_JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vedant11054/DSA_JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0503-next-greater-element-ii](https://github.com/Vedant11054/DSA_JAVA/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/Vedant11054/DSA_JAVA/tree/master/0704-binary-search) |
@@ -43,6 +44,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Vedant11054/DSA_JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Vedant11054/DSA_JAVA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vedant11054/DSA_JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Vedant11054/DSA_JAVA/tree/master/0409-longest-palindrome) |
@@ -79,6 +81,7 @@
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Vedant11054/DSA_JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Vedant11054/DSA_JAVA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vedant11054/DSA_JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Vedant11054/DSA_JAVA/tree/master/1189-maximum-number-of-balloons) |
@@ -103,6 +106,7 @@
 | [0016-3sum-closest](https://github.com/Vedant11054/DSA_JAVA/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Vedant11054/DSA_JAVA/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vedant11054/DSA_JAVA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Vedant11054/DSA_JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vedant11054/DSA_JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vedant11054/DSA_JAVA/tree/master/0977-squares-of-a-sorted-array) |
 ## Sliding Window
@@ -124,13 +128,20 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vedant11054/DSA_JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vedant11054/DSA_JAVA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Vedant11054/DSA_JAVA/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vedant11054/DSA_JAVA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Vedant11054/DSA_JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vedant11054/DSA_JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vedant11054/DSA_JAVA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Vedant11054/DSA_JAVA/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Vedant11054/DSA_JAVA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
