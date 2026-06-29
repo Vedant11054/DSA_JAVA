@@ -21,6 +21,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Vedant11054/DSA_JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vedant11054/DSA_JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0503-next-greater-element-ii](https://github.com/Vedant11054/DSA_JAVA/tree/master/0503-next-greater-element-ii) |
+| [0692-top-k-frequent-words](https://github.com/Vedant11054/DSA_JAVA/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/Vedant11054/DSA_JAVA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Vedant11054/DSA_JAVA/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/Vedant11054/DSA_JAVA/tree/master/0739-daily-temperatures) |
@@ -48,6 +49,7 @@
 | [0383-ransom-note](https://github.com/Vedant11054/DSA_JAVA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vedant11054/DSA_JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Vedant11054/DSA_JAVA/tree/master/0409-longest-palindrome) |
+| [0692-top-k-frequent-words](https://github.com/Vedant11054/DSA_JAVA/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/Vedant11054/DSA_JAVA/tree/master/1189-maximum-number-of-balloons) |
 ## String
 |  |
@@ -56,6 +58,7 @@
 | [0383-ransom-note](https://github.com/Vedant11054/DSA_JAVA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vedant11054/DSA_JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Vedant11054/DSA_JAVA/tree/master/0409-longest-palindrome) |
+| [0692-top-k-frequent-words](https://github.com/Vedant11054/DSA_JAVA/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/Vedant11054/DSA_JAVA/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Vedant11054/DSA_JAVA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Greedy
@@ -84,6 +87,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Vedant11054/DSA_JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Vedant11054/DSA_JAVA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vedant11054/DSA_JAVA/tree/master/0387-first-unique-character-in-a-string) |
+| [0692-top-k-frequent-words](https://github.com/Vedant11054/DSA_JAVA/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/Vedant11054/DSA_JAVA/tree/master/1189-maximum-number-of-balloons) |
 ## Two Pointers
 |  |
@@ -108,6 +112,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Vedant11054/DSA_JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Vedant11054/DSA_JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vedant11054/DSA_JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0692-top-k-frequent-words](https://github.com/Vedant11054/DSA_JAVA/tree/master/0692-top-k-frequent-words) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vedant11054/DSA_JAVA/tree/master/0977-squares-of-a-sorted-array) |
 ## Sliding Window
 |  |
@@ -135,6 +140,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Vedant11054/DSA_JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Vedant11054/DSA_JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vedant11054/DSA_JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0692-top-k-frequent-words](https://github.com/Vedant11054/DSA_JAVA/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
 |  |
 | ------- |
@@ -144,4 +150,9 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Vedant11054/DSA_JAVA/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/Vedant11054/DSA_JAVA/tree/master/0692-top-k-frequent-words) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/Vedant11054/DSA_JAVA/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
