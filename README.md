@@ -108,6 +108,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Vedant11054/DSA_JAVA/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Vedant11054/DSA_JAVA/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Sorting
 |  |
@@ -164,4 +165,8 @@
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Vedant11054/DSA_JAVA/tree/master/0692-top-k-frequent-words) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Vedant11054/DSA_JAVA/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
