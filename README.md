@@ -12,6 +12,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Vedant11054/DSA_JAVA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vedant11054/DSA_JAVA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0056-merge-intervals](https://github.com/Vedant11054/DSA_JAVA/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/Vedant11054/DSA_JAVA/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/Vedant11054/DSA_JAVA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Vedant11054/DSA_JAVA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Vedant11054/DSA_JAVA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
