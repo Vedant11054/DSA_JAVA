@@ -1,60 +1,62 @@
 class Solution {
-    public int[] sortedSquares(int[] nums) {
-       ArrayList <Integer> negarr=new ArrayList<>();
-        ArrayList <Integer> posarr=new ArrayList<>();
+    public int[] sortedSquares(int[] nums) 
+    {
+        List<Integer>pos=new ArrayList<>();
+        List<Integer>neg=new ArrayList<>();
+        int[] ans=new int[nums.length];
+        if(nums[0]>=0)    
+        {
+            for(int i=0;i<nums.length;i++)
+            {
+                nums[i]=nums[i]*nums[i];
+            }
+            return nums;
+        }
         for(int i=0;i<nums.length;i++)
         {
-            if(nums[i]<0)
+            if(nums[i]>=0)
             {
-                negarr.add(nums[i]);
+                pos.add(nums[i]*nums[i]);
             }
-            else if(nums[i]>=0)
+            else
             {
-                posarr.add(nums[i]);
+                neg.add(nums[i]*nums[i]);
             }
-        }
-        System.out.println(negarr);
-        System.out.println(posarr);
-        for(int i=0;i<negarr.size();i++)
+        }  
+        Collections.reverse(neg);
+        System.out.println(pos);
+        System.out.println(neg);
+        int i=0;
+        int j=0;
+        int idx=0;
+        while(i<pos.size() && j<neg.size())
         {
-            int ans=negarr.get(i);
-            negarr.set(i,ans*ans);
-        }
-         for(int i=0;i<posarr.size();i++)
-        {
-            int ans=posarr.get(i);
-            posarr.set(i,ans*ans);
-        }
-            System.out.println(negarr);
-            System.out.println(posarr);
-            int i=negarr.size()-1,j=0,idx=0;
-            while (i>=0 && j<=posarr.size()-1 ) 
+            if(pos.get(i)<=neg.get(j))
             {
-                int elementi=negarr.get(i);
-                int elementj=posarr.get(j);
-                if (elementi<elementj) {
-                nums[idx]=elementi;
-                i--;      
-                idx++;       
-                }    
-                else if (elementi>=elementj) {
-                    nums[idx]=elementj;
-                    j++;
-                    idx++;
-                }
-            }
-            while (i>=0) {
-                int elementi=negarr.get(i);
-                nums[idx]=elementi;
-                i--;      
+                ans[idx]=pos.get(i);
                 idx++;
+                i++;
             }
-            while (j<=posarr.size()-1 ) {
-                int elementj=posarr.get(j);
-                nums[idx]=elementj;
-                    j++;
-                    idx++;
+            else
+            {
+                ans[idx]=neg.get(j);
+                idx++;
+                j++;
             }
-        return nums;
+        }
+        while(i<pos.size())
+        {
+            ans[idx]=pos.get(i);
+            idx++;
+            i++;
+        }
+        while(j<neg.size())
+        {
+            ans[idx]=neg.get(j);
+            idx++;
+            j++;
+        }
+        
+    return ans;
     }
 }
