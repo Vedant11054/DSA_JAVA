@@ -3,21 +3,25 @@ class Solution {
     {
         int i=0;
         int j=numbers.length-1;
-        while(i<=j)    
+        int[] ans=new int[2];
+        while(i<j)    
         {
-            if(numbers[i]+numbers[j]==target)
+            int curr=numbers[i]+numbers[j];
+            if(curr==target)
             {
-                return new int[]{i+1,j+1};
+                ans[0]=i+1;
+                ans[1]=j+1;
+                return ans;
             }
-            else if(numbers[i]+numbers[j]>target)
+            else if(curr>target)
             {
                 j--;
             }
-            else if(numbers[i]+numbers[j]<target)
+            else if(curr<target)
             {
                 i++;
             }
         }
-        return new int[]{-1,-1};
+        return ans; 
     }
 }
