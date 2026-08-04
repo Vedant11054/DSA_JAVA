@@ -76,6 +76,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vedant11054/DSA_JAVA/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Vedant11054/DSA_JAVA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0503-next-greater-element-ii](https://github.com/Vedant11054/DSA_JAVA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Vedant11054/DSA_JAVA/tree/master/0739-daily-temperatures) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Vedant11054/DSA_JAVA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -186,4 +187,16 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Vedant11054/DSA_JAVA/tree/master/0509-fibonacci-number) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Vedant11054/DSA_JAVA/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Vedant11054/DSA_JAVA/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Vedant11054/DSA_JAVA/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
