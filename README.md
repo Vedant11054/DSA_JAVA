@@ -173,4 +173,17 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Vedant11054/DSA_JAVA/tree/master/0024-swap-nodes-in-pairs) |
+| [0509-fibonacci-number](https://github.com/Vedant11054/DSA_JAVA/tree/master/0509-fibonacci-number) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Vedant11054/DSA_JAVA/tree/master/0509-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Vedant11054/DSA_JAVA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Vedant11054/DSA_JAVA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
