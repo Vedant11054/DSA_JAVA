@@ -25,6 +25,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vedant11054/DSA_JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/Vedant11054/DSA_JAVA/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/Vedant11054/DSA_JAVA/tree/master/0503-next-greater-element-ii) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Vedant11054/DSA_JAVA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0692-top-k-frequent-words](https://github.com/Vedant11054/DSA_JAVA/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/Vedant11054/DSA_JAVA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Vedant11054/DSA_JAVA/tree/master/0713-subarray-product-less-than-k) |
@@ -72,6 +73,7 @@
 | ------- |
 | [0409-longest-palindrome](https://github.com/Vedant11054/DSA_JAVA/tree/master/0409-longest-palindrome) |
 | [0502-ipo](https://github.com/Vedant11054/DSA_JAVA/tree/master/0502-ipo) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Vedant11054/DSA_JAVA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0767-reorganize-string](https://github.com/Vedant11054/DSA_JAVA/tree/master/0767-reorganize-string) |
 ## Stack
 |  |
@@ -81,12 +83,14 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Vedant11054/DSA_JAVA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vedant11054/DSA_JAVA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0503-next-greater-element-ii](https://github.com/Vedant11054/DSA_JAVA/tree/master/0503-next-greater-element-ii) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Vedant11054/DSA_JAVA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/Vedant11054/DSA_JAVA/tree/master/0739-daily-temperatures) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Vedant11054/DSA_JAVA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Vedant11054/DSA_JAVA/tree/master/0503-next-greater-element-ii) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Vedant11054/DSA_JAVA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/Vedant11054/DSA_JAVA/tree/master/0739-daily-temperatures) |
 ## Queue
 |  |
@@ -111,6 +115,7 @@
 | [0075-sort-colors](https://github.com/Vedant11054/DSA_JAVA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Vedant11054/DSA_JAVA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vedant11054/DSA_JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Vedant11054/DSA_JAVA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vedant11054/DSA_JAVA/tree/master/0977-squares-of-a-sorted-array) |
 ## Linked List
 |  |
@@ -129,6 +134,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Vedant11054/DSA_JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vedant11054/DSA_JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/Vedant11054/DSA_JAVA/tree/master/0502-ipo) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Vedant11054/DSA_JAVA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0692-top-k-frequent-words](https://github.com/Vedant11054/DSA_JAVA/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Vedant11054/DSA_JAVA/tree/master/0767-reorganize-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vedant11054/DSA_JAVA/tree/master/0977-squares-of-a-sorted-array) |
