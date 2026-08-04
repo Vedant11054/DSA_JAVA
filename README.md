@@ -33,6 +33,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vedant11054/DSA_JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Vedant11054/DSA_JAVA/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vedant11054/DSA_JAVA/tree/master/0977-squares-of-a-sorted-array) |
+| [3731-find-missing-elements](https://github.com/Vedant11054/DSA_JAVA/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | [0692-top-k-frequent-words](https://github.com/Vedant11054/DSA_JAVA/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Vedant11054/DSA_JAVA/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Vedant11054/DSA_JAVA/tree/master/1189-maximum-number-of-balloons) |
+| [3731-find-missing-elements](https://github.com/Vedant11054/DSA_JAVA/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -138,6 +140,7 @@
 | [0692-top-k-frequent-words](https://github.com/Vedant11054/DSA_JAVA/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Vedant11054/DSA_JAVA/tree/master/0767-reorganize-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vedant11054/DSA_JAVA/tree/master/0977-squares-of-a-sorted-array) |
+| [3731-find-missing-elements](https://github.com/Vedant11054/DSA_JAVA/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
 | ------- |
