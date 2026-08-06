@@ -9,28 +9,29 @@
  */
 
 class Solution {
-       TreeNode ans1=null;
-    public int ans(TreeNode root,TreeNode p ,TreeNode q)
+    TreeNode ans1=null;
+    public int ans(TreeNode node,TreeNode p, TreeNode q)
     {
-        if(root==null)    
+        if(node==null)
         {
             return 0;
         }
-        int left=ans(root.left,p,q);
-        int right=ans(root.right,p,q);
+        int left=ans(node.left,p,q);
+        int right=ans(node.right,p,q);
         int self=0;
-        if(root==p || root==q)
+        if(node==p || node==q)
         {
             self=1;
         }
-        int total=left+right+self;
+        int total=self+left+right;
         if(total==2 && ans1==null)
         {
-            ans1=root;
+            ans1=node;
         }
         return total;
     }
-    public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
+    public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) 
+    {
         ans(root,p,q);
         return ans1;
     }
